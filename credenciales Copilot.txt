@@ -1,0 +1,14 @@
+Host: us-east-1.567c8ddb-7d42-44ba-8103-193573b116f9.aws.yugabyte.cloud
+Port: 5433
+Username: admin
+
+db name: yugabyte
+
+Cluster: biblioteca-api
+YSQL Username: admin
+YSQL Password: dwjzAMRfIC0FSvXHwvNKUJi6GJcJlS
+YCQL Username: admin
+YCQL Password: dwjzAMRfIC0FSvXHwvNKUJi6GJcJlS
+
+postgresql://<DB USER>:<DB PASSWORD>@us-east-1.567c8ddb-7d42-44ba-8103-193573b116f9.aws.yugabyte.cloud:5433/ 
+biblioteca_db?ssl=true&sslmode=verify-full&sslrootcert=<ROOT_CERT_PATH>
